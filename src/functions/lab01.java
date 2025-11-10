@@ -1,6 +1,4 @@
-package nov_09_functions;
-
-import java.sql.SQLOutput;
+package functions;
 
 public class lab01 {
     public static void main(String[] args) {

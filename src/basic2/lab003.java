@@ -1,4 +1,4 @@
-package oct_26;
+package basic2;
 
 public class lab003 {
 //    in place of args we can write anything eg pavneet or any other word

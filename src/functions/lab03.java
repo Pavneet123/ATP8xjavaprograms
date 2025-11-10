@@ -1,6 +1,4 @@
-package nov_09_functions;
-
-import javax.swing.plaf.basic.BasicMenuItemUI;
+package functions;
 
 public class lab03 {
     public static void main(String[] args) {

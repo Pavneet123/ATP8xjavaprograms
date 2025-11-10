@@ -1,4 +1,4 @@
-package oct_25_ex01;
+package basic1;
 
 public class lab001 {
 

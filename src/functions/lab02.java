@@ -1,4 +1,4 @@
-package nov_09_functions;
+package functions;
 
 public class lab02 {
     public static void main(String[] args) {
